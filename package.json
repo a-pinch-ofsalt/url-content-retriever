@@ -1,11 +1,10 @@
 {
   "name": "url-content-retriever",
   "version": "1.0.0",
-  "scripts": {
-    "build": "vercel build",
-    "dev": "vercel dev"
-  },
   "dependencies": {
     "axios": "^0.21.1"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
